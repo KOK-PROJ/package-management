@@ -15,7 +15,7 @@
 
 ### Install Java JDK 1.8+ 
 
-``` sh
+
 # install Java JDK 1.8+ as a pre-requisit for tomcat to run.
 sudo hostnamectl set-hostname tomcat
 cd /opt 
